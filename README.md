@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mitchstephenson
-- 👀 I’m interested in nothing in particular
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to use TensorFlow
 - 📫 How to reach me stephean@oregonstate.edu
 
 <!---
